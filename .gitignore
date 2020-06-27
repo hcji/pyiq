@@ -1,0 +1,7 @@
+/.spyproject
+/.ipynb_checkpoints
+/__pycache__
+/LFQBench/*.tsv
+/LFQBench/*.csv
+/discarded
+*.pyc
